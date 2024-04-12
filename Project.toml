@@ -22,7 +22,7 @@ DataStructures = "0.18"
 DiffEqBase = "6.122"
 PrecompileTools = "1"
 Reexport = "1.0"
-SciMLBase = "2.9"
+SciMLBase = "1.81, 2.9"
 Sundials_jll = "5.2"
 julia = "1.9"
 
